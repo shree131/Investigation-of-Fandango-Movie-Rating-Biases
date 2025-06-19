@@ -23,7 +23,6 @@ The analysis two distinct datasets for our investigation. This approach allows f
 - **The 2015 Dataset**: We'll begin by examining the dataset originally collected by Walt Hickey as part of his comprehensive analysis. The dataset, fandango_score_comparison.csv, provides a snapshot of Fandango's rating practices before potential adjustments made in response to Hickey's findings.
 
 - **The 2016-2017 Dataset**: In addition to Hickey's dataset, we'll also incorporate a dataset spanning the years 2016 to 2017. This dataset provides a more recent perspective on Fandango's ratings landscape, allowing us to assess whether any changes or adjustments have occurred following Hickey's analysis.
-- 
 
 
 
